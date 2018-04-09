@@ -8,5 +8,6 @@
 ![https://github.com/2351543/hw6/blob/master/1.3.docx](https://github.com/2351543/hw6/blob/master/1.3.docx)
 ЧАСТЬ 2.Sketch Engine
 1.С помощью функции Word Sketch нам удалось с лёгкостью найти три самых частотных мадификатора существительного question.
-![]()
+![https://github.com/2351543/hw6/blob/master/2.1.docx](https://github.com/2351543/hw6/blob/master/2.1.docx)
 2.Функция Sketch diff позволила узнать нам с какими дополнениями могут употребляться такие синонимичные глаголы, как, к примеру, hold и keep:
+![]()
