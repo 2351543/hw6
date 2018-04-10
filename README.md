@@ -6,8 +6,10 @@
 ![https://github.com/2351543/hw6/blob/master/1.2.docx](https://github.com/2351543/hw6/blob/master/1.2.docx)
 3.Слова film и movie являются синонимами, film характерно британскому английскому языку,а слово movie- американскому английскому.Следующий график натолкнёт нас на некие мысли и выводы:
 ![https://github.com/2351543/hw6/blob/master/1.3.docx](https://github.com/2351543/hw6/blob/master/1.3.docx)
+Cудя по графику, популярность у обоих слов возросла к 2000 году. 
 ЧАСТЬ 2.Sketch Engine
 1.С помощью функции Word Sketch нам удалось с лёгкостью найти три самых частотных мадификатора существительного question.
 ![https://github.com/2351543/hw6/blob/master/2.1.docx](https://github.com/2351543/hw6/blob/master/2.1.docx)
 2.Функция Sketch diff позволила узнать нам с какими дополнениями могут употребляться такие синонимичные глаголы, как, к примеру, hold и keep:
 ![https://github.com/2351543/hw6/blob/master/2.2.docx](https://github.com/2351543/hw6/blob/master/2.2.docx)
+Оба глагола могут употребляться с такими дополнениями, как hand и record, в то время, как дополнения election и talk могут употребляться только с глаголом hold, а дополнения distance и pace только с глаголом ceep.
